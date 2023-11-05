@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "sakshi",
+      "email": "sakshi@gmail.com",
+      "phone": "8978797978789"
+    },
+    {
+      "id": 2,
+      "name": "shubham2",
+      "email": "shubham2@gmail.com",
+      "phone": "686697987"
+    }
+  ]
+}
